@@ -1,99 +1,103 @@
 ---
-pagetitle: "Resume - MyName"
-author: "My Name"
-date: 2018-10-31
+pagetitle: "Resume - Kevin Coxe"
+author: "Kevin Coxe"
+date: 2019-07-08
 ---
 
-# Your Name
+# Kevin Coxe
 
 ## Contact {.heading .hide}
 
-Seoul, Republic of Korea\
-82+ 010-3939-3686\
-yourname@gmail.com\
+Bowie MD\
+410-353-4097\
+kevcoxe@gmail.com\
 
-## Experience {.divider}
-
-### Senior Software Engineer &mdash; PQC International
-
-#### Jan 2016 - Present
-
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit
-- Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua
-
-### Network Engineer &mdash; PQC Indonesia
-
-#### Jun 2013 - Jan 2016
-
-- Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-- Reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla
-- Excepteur sint occaecat cupidatat non proident
-- Culpa qui officia deserunt mollit anim id est laborum
-- Nisi ut aliquip ex ea commodo consequatn
-
-### Network Analyst &mdash; ETW Worldwide
-
-#### May 2011 - Jul 2013
-
-- Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-- Accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae
-- Ab illo inventore veritatis et quasi architecto beatae vitae dicta
-- Sunt explicabo nemo enim ipsam voluptatem quia voluptas sit
-
-### Junior Analyst &mdash; JW Stanley Corp
-
-#### May 2010 - Dec 2010
-
-- Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet
-- Consectetur, adipisci velit, sed quia non numquam eius modi tempora
-- Incidunt ut labore et dolore magnam aliquam quaerat voluptatem
-
-## Projects {.divider}
-
-### My Project 1
-
-#### Sep 2005 - Apr 2009
-
-- Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet
-- Consectetur, adipisci velit, sed quia non numquam eius modi tempora
-
-### My Project 2
-
-#### Sep 2005 - Apr 2009
-
-- Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet
-- Consectetur, adipisci velit, sed quia non numquam eius modi tempora
-
-## Education {.divider}
-
-### B.Sc Biology &mdash; University of Lethbridge
-
-#### Sep 2005 - Apr 2009
-
-- Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis
-- Suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur?
-
-## Technical skills {.divider}
+## Skills {.divider}
 
 ## Triple Skills Section {.hide}
 
-### Your Skills 1 {.col .left}
+### Languages {.col .left}
 
-Skill1\
-Skill1\
-Skill1\
-Skill1\
+Python\
+React.js\
+Javascript\
+Angular.js\
+Node.js\
 
-### Your Skills 2 {.col .center}
+### Frameworks {.col .center}
 
-Skill2\
-Skill2\
-Skill2\
-Skill2\
+Flask\
+Nginx\
+Vagrant\
+PostgreSQL\
+SQLAlchemy\
 
-### Your Skills 3 {.col .right}
+### Tools {.col .right}
 
-Skill3\
-Skill3\
-Skill3\
-Skill3\
+Google\
+Git\
+Vim\
+Tmux\
+
+## Experience {.divider}
+
+### Lead Project Developer &mdash; Attila Security
+
+#### Febuary 2017 - Present
+
+- Lead a team of developers to work on the product GoSilent
+- Migrated the data on the GoSilent to a SQL Database
+- Developed the backend for the Virtual Silent Edge Enterprise Server
+
+##### Senior Software Engineer
+#### July 2017 - Agust 2018
+
+- Created a system to provision the GoSilent product
+- Created a system to create the images used to update the GoSilent
+- Maintained and improved the web application for managing the GoSilent
+
+##### Principle of Engineering
+#### Febuary 2017 – July 2017
+
+- Created a web application to control the GoSilent product
+- Designed an over the air update system to update the GoSilent
+- Setup a cluster of servers for the GoSilent to connect to
+
+### Software Design Engineer &mdash; KeyW
+
+#### October 2015 – Febuary 2017
+
+- Lead engineer on KeyW's first open source project Hog
+- Started the hackathons at KeyW
+- Developed algorithms for sorting and managing nodes for a drag and drop interface
+- Setup OpenStack for development team
+- Created many dashboards and data visualizations for other teams
+- Lead a team of interns to develop a secure file sharing application
+
+### Software Engineer &mdash; Adchemix
+
+#### May 2015 – October 2015
+
+- Worked with the servers side team to display metrics on custom graphs and widgets
+- Converted PHP project to Angular.js
+- Designed mobile friendly graphs and dashboards
+
+## Projects {.divider}
+
+### GoSilent
+
+GoSilent safeguards you from threats that target your networks, information, and workforce when they are operating external to your networks and facilities. Protect your IP enabled IoT devices, mobile workforce and business assets from anywhere they access the Internet. Your mobile workforce can work securely using any device, from any location (i.e. home, cafe, hotel, airplane) without data compromise, malware or device exploitation.
+
+### MusicBox
+
+A dashboard with service discovery modules. Displays a list of services, which can be grouped for quick access. Conveniently shows services that are running.
+
+### Hog
+
+Hog is a web IDE for the pig scripting language. There are two IDE types, complex and simple. The complex allows a user to write the pig scripts and includes syntax highlighting, auto complete, and versioning. The simple editor has predefined nodes that you can drag and drop onto the canvas and connect together to generate pig scripts.
+
+## Education {.divider}
+
+**B.S Computer Science &mdash; University of Maryland Baltimore County (UMBC)** December 2015
+
+**A.S Computer Science &mdash; Anne Arundel Community College** May 2013
